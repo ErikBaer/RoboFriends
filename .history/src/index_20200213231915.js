@@ -7,11 +7,8 @@ import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 
 ReactDOM.render(
-                <div>
-                    <Card />
-                    <Card />
-                    <Card />
-                </div>    
+<Card />
+
 , document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
