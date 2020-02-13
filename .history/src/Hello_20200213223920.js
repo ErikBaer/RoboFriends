@@ -3,12 +3,9 @@ import logo from './logo.svg';
 
 class Hello extends Component {
     render() {
-        return (
-        <div>
-            <h1>Hello World</h1>
+        return 
+        <h1>Hello World</h1>
         <p>Welcome to React</p>
-        </div>
-        )
     }
 }
 
