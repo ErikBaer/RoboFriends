@@ -1,4 +1,4 @@
-import React, {Fragment} from 'react';
+import React, {Fraction} from 'react';
 import Card from './Card';
 
 const CardList = ({robots}) => {
@@ -15,9 +15,9 @@ const CardList = ({robots}) => {
     })
 
     return (
-        <Fragment>
+        <Fraction>
             {cardsArray}
-        </Fragment> 
+        </Fraction> 
     );
 }
 
