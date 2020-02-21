@@ -1,4 +1,4 @@
-import React, {Fragment} from 'react';
+import React from 'react';
 import CardList from './CardList';
 import {robots} from './robots';
 
@@ -6,7 +6,7 @@ import {robots} from './robots';
 const App = () =>{
     return(
         <Fragment>
-            <h1>RoboFriends</h1>
+            <h1>Power-Rangers</h1>
             <CardList robots={robots}/>
         </Fragment>
         
