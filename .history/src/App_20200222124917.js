@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import CardList from './CardList';
 import SearchBox from './SearchBox';
-import Scroll from './Scroll';
 import './App.css';
 
 
@@ -39,8 +38,7 @@ class App extends Component {
                         <CardList robots={filteredRobots}/>
                     </div>
                         );
+                    }
                 }
-            }
-        }
 
 export default App;
