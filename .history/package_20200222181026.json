@@ -1,8 +1,8 @@
 {
-  "name": "RoboFriends",
+  "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ErikBaer.github.io/RoboFriends",
+  "homepage": "https://ErikBaer.github.io/my-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
@@ -17,9 +17,9 @@
     "eject": "react-scripts eject",
          "predeploy": "npm run build",
           "deploy": "gh-pages -d build",
-          "deploy": "gh-pages -b master -d build",
+          "deploy": "gh-pages -b master -d build"
           "start": "react-scripts start",
-          "build": "react-scripts build"
+          "build": "react-scripts build",
   },
   "eslintConfig": {
     "extends": "react-app"
