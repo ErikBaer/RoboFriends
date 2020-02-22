@@ -3,7 +3,9 @@ Pick your favorite RoboFriend with this Web-App written in React. Data and Carto
 
 Part of the course:
 
-scroll
+state
+Fragment
+Scroll
 ErrorBoundry etc.
 
 fetching live data
